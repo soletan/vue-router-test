@@ -1,0 +1,3 @@
+# Home page
+
+Click [this link](/redirecting.md) for being redirected ...
